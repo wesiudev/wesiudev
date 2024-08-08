@@ -2,7 +2,7 @@
 
 I'm wesiudev, creative developer.
 
-Check out my portfolio: [https://wesiudev.netlify.app](https://wesiudev.netlify.app)
+Check out my portfolio: [https://wesiudev.netlify.app](Personal-portfolio-v2)
 
 Work in progress
 
