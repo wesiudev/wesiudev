@@ -1,8 +1,6 @@
-### HELLO EVERYONE 
+### Hi, I'm wesiudev, Creative Developer.
 
-I'm wesiudev, Creative React Developer.
-
-Check out my portfolio: [Personal-portfolio-v2](https://github.com/wesiudev/personal-portfolio-v2)
+[Personal-portfolio-v2](https://github.com/wesiudev/personal-portfolio-v2)
 
 I'm leaning towards working on these projects
 
@@ -13,3 +11,4 @@ I'm leaning towards working on these projects
 > [https://artofhorusnft.com](https://artofhorusnft.com)
 
 > [https://e-rezerwacje.com.pl](https://e-rezerwacje.com.pl)
+
